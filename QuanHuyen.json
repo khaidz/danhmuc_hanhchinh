@@ -1,0 +1,4226 @@
+[
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ecbnh Qu\u00e1n",
+        "maquanhuyen": "736"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng L\u00e1t",
+        "maquanhuyen": "384"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ea3ng X\u01b0\u01a1ng",
+        "maquanhuyen": "406"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n S\u00f4ng M\u00e3",
+        "maquanhuyen": "126"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 R\u1ea1ch Gi\u00e1",
+        "maquanhuyen": "899"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n Gi\u1ed3ng Ri\u1ec1ng",
+        "maquanhuyen": "906"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n H\u1edbn Qu\u1ea3n",
+        "maquanhuyen": "694"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Th\u1ee7 \u0110\u1ee9c",
+        "maquanhuyen": "769"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u00ean L\u1eef",
+        "maquanhuyen": "332"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Qu\u1eadn B\u00ecnh Thu\u1ef7",
+        "maquanhuyen": "918"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh \u0110\u1ea1i",
+        "maquanhuyen": "835"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ea1 H\u00f2a",
+        "maquanhuyen": "231"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 T\u00e2n Uy\u00ean",
+        "maquanhuyen": "723"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Tr\u1ea3ng B\u00e0ng",
+        "maquanhuyen": "712"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Huy\u1ec7n Na Hang",
+        "maquanhuyen": "072"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Ph\u01b0\u1edbc",
+        "maquanhuyen": "818"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u1ee3 G\u1ea1o",
+        "maquanhuyen": "822"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 V\u0169ng T\u00e0u",
+        "maquanhuyen": "747"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n Gi\u1ed3ng Tr\u00f4m",
+        "maquanhuyen": "834"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ed3ng Xu\u00e2n",
+        "maquanhuyen": "558"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Ea S\u00fap",
+        "maquanhuyen": "646"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u1ea1 Long",
+        "maquanhuyen": "193"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng N\u0103ng",
+        "maquanhuyen": "650"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Huy\u1ec7n Mang Th\u00edt",
+        "maquanhuyen": "858"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea9m M\u1ef9",
+        "maquanhuyen": "739"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean D\u0169ng",
+        "maquanhuyen": "221"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Qu\u1ea3ng Ng\u00e3i",
+        "maquanhuyen": "522"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Qu\u1ea3ng Y\u00ean",
+        "maquanhuyen": "206"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn C\u1ea7u Gi\u1ea5y",
+        "maquanhuyen": "005"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n X\u00edn M\u1ea7n",
+        "maquanhuyen": "033"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u1ec3u C\u1ea7n",
+        "maquanhuyen": "846"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Ba V\u00ec",
+        "maquanhuyen": "271"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Lang Ch\u00e1nh",
+        "maquanhuyen": "388"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Gia L\u00e2m",
+        "maquanhuyen": "018"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ee7 Chi",
+        "maquanhuyen": "783"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Bi\u00ean H\u00f2a",
+        "maquanhuyen": "731"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 K\u1ef3 Anh",
+        "maquanhuyen": "449"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh Linh",
+        "maquanhuyen": "464"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Th\u0103ng B\u00ecnh",
+        "maquanhuyen": "513"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n An L\u00e3o",
+        "maquanhuyen": "313"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1nh Ph\u00fa",
+        "maquanhuyen": "837"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n L\u01b0\u01a1ng S\u01a1n",
+        "maquanhuyen": "152"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n N\u1eadm Nh\u00f9n",
+        "maquanhuyen": "112"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean M\u00f4",
+        "maquanhuyen": "377"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Tr\u1ee5",
+        "maquanhuyen": "805"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n H\u00e0m Thu\u1eadn Nam",
+        "maquanhuyen": "598"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea1ch Long V\u0129",
+        "maquanhuyen": "318"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e1nh Linh",
+        "maquanhuyen": "599"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "877"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Huy\u1ec7n Nh\u00e0 B\u00e8",
+        "maquanhuyen": "786"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean L\u1eadp",
+        "maquanhuyen": "234"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "808"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n N\u00fai Th\u00e0nh",
+        "maquanhuyen": "517"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng T\u00e8",
+        "maquanhuyen": "107"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n Tri T\u00f4n",
+        "maquanhuyen": "891"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ed9c H\u00e0",
+        "maquanhuyen": "448"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u01b0\u01a1ng M\u1ef9",
+        "maquanhuyen": "277"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Qu\u00ed",
+        "maquanhuyen": "602"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n C\u00e1i N\u01b0\u1edbc",
+        "maquanhuyen": "969"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ee7y Nguy\u00ean",
+        "maquanhuyen": "311"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n H\u01b0ng H\u00e0",
+        "maquanhuyen": "339"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Huy\u1ec7n G\u00f2 D\u1ea7u",
+        "maquanhuyen": "710"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ninh H\u00f2a",
+        "maquanhuyen": "572"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ed3ng V\u0103n",
+        "maquanhuyen": "026"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "892"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Nha Trang",
+        "maquanhuyen": "568"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Nam \u0110\u1ecbnh",
+        "maquanhuyen": "356"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 \u0110\u00f4ng Tri\u1ec1u",
+        "maquanhuyen": "205"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 U\u00f4ng B\u00ed",
+        "maquanhuyen": "196"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 L\u1ea1t",
+        "maquanhuyen": "672"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n B\u00f9 Gia M\u1eadp",
+        "maquanhuyen": "691"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u00e0 T\u0129nh",
+        "maquanhuyen": "436"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea9m Kh\u00ea",
+        "maquanhuyen": "235"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n KBang",
+        "maquanhuyen": "625"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 S\u1ea7m S\u01a1n",
+        "maquanhuyen": "382"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n H\u00e0m Thu\u1eadn B\u1eafc",
+        "maquanhuyen": "597"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n V\u0169 Quang",
+        "maquanhuyen": "441"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n Lai Vung",
+        "maquanhuyen": "876"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n H\u01b0\u01a1ng S\u01a1n",
+        "maquanhuyen": "439"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u00e0 C\u00fa",
+        "maquanhuyen": "849"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 S\u01a1n La",
+        "maquanhuyen": "116"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Y\u00ean B\u00e1i",
+        "maquanhuyen": "132"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u01b0 P\u0103h",
+        "maquanhuyen": "627"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n H\u00e0 Trung",
+        "maquanhuyen": "392"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n Kon Pl\u00f4ng",
+        "maquanhuyen": "613"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Nh\u01b0 Xu\u00e2n",
+        "maquanhuyen": "402"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n \u0110i\u1ec7n Bi\u00ean \u0110\u00f4ng",
+        "maquanhuyen": "101"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n N\u0103m C\u0103n",
+        "maquanhuyen": "971"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Qu\u1eadn Ninh Ki\u1ec1u",
+        "maquanhuyen": "916"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 C\u1eeda L\u00f2",
+        "maquanhuyen": "413"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ea3ng Ninh",
+        "maquanhuyen": "456"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n Tam \u0110\u1ea3o",
+        "maquanhuyen": "248"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea1i L\u1ed9c",
+        "maquanhuyen": "506"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n Ba T\u01a1",
+        "maquanhuyen": "535"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00f9 Ninh",
+        "maquanhuyen": "233"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh H\u01b0ng",
+        "maquanhuyen": "797"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n S\u01a1n",
+        "maquanhuyen": "240"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Ph\u00fa Qu\u1ed1c",
+        "maquanhuyen": "911"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u00e0 \u00d4n",
+        "maquanhuyen": "862"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u1ee3 L\u00e1ch",
+        "maquanhuyen": "832"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n Xu\u00e2n L\u1ed9c",
+        "maquanhuyen": "741"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n T\u01b0 Ngh\u0129a",
+        "maquanhuyen": "528"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u1ea7n V\u0103n Th\u1eddi",
+        "maquanhuyen": "968"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Huy\u1ec7n Long M\u1ef9",
+        "maquanhuyen": "936"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Huy\u1ec7n Kh\u00e1nh V\u0129nh",
+        "maquanhuyen": "573"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ea5p V\u00f2",
+        "maquanhuyen": "875"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n M'\u0110r\u1eafk",
+        "maquanhuyen": "652"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc M\u00ea",
+        "maquanhuyen": "031"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Huy\u1ec7n Nam \u0110\u00f4ng",
+        "maquanhuyen": "483"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc Y\u00ean",
+        "maquanhuyen": "121"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn Ki\u1ebfn An",
+        "maquanhuyen": "307"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n L\u00e2m",
+        "maquanhuyen": "325"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2y H\u00f2a",
+        "maquanhuyen": "562"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean \u0110\u1ecbnh",
+        "maquanhuyen": "394"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa L\u1ed9c",
+        "maquanhuyen": "482"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Pleiku",
+        "maquanhuyen": "622"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng Nh\u00e9",
+        "maquanhuyen": "096"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n Cao L\u1ed9c",
+        "maquanhuyen": "183"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ph\u00fa Th\u1ecd",
+        "maquanhuyen": "228"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Th\u00e1i Nguy\u00ean",
+        "maquanhuyen": "164"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ef9 Xuy\u00ean",
+        "maquanhuyen": "947"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 \u0110\u1ee9c Ph\u1ed5",
+        "maquanhuyen": "534"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ea3ng Tr\u1ea1ch",
+        "maquanhuyen": "454"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Con Cu\u00f4ng",
+        "maquanhuyen": "422"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn Ng\u00f4 Quy\u1ec1n",
+        "maquanhuyen": "304"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n L\u1eadp Th\u1ea1ch",
+        "maquanhuyen": "246"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Nam T\u1eeb Li\u00eam",
+        "maquanhuyen": "019"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u01b0\u1eddng Sa",
+        "maquanhuyen": "576"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Ng\u00e3 B\u1ea3y",
+        "maquanhuyen": "931"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng \u1ea2ng",
+        "maquanhuyen": "102"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n Na R\u00ec",
+        "maquanhuyen": "066"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n An Bi\u00ean",
+        "maquanhuyen": "908"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n Ng\u1ecdc Hi\u1ec3n",
+        "maquanhuyen": "973"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean B\u00ecnh",
+        "maquanhuyen": "141"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n S\u00f3c S\u01a1n",
+        "maquanhuyen": "016"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Ninh B\u00ecnh",
+        "maquanhuyen": "369"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Huy\u1ec7n Cam L\u00e2m",
+        "maquanhuyen": "570"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn \u0110\u1ed1ng \u0110a",
+        "maquanhuyen": "006"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea9m Gi\u00e0ng",
+        "maquanhuyen": "295"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Nh\u01b0 Thanh",
+        "maquanhuyen": "403"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n L\u00e2m Thao",
+        "maquanhuyen": "237"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ed9 \u0110\u1ee9c",
+        "maquanhuyen": "533"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00f4ng S\u01a1n",
+        "maquanhuyen": "405"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Th\u1ecb X\u00e3 M\u01b0\u1eddng Lay",
+        "maquanhuyen": "095"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Cao B\u1eb1ng",
+        "maquanhuyen": "040"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Huy\u1ec7n Phong \u0110i\u1ec1n",
+        "maquanhuyen": "926"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1ch An",
+        "maquanhuyen": "053"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Minh",
+        "maquanhuyen": "028"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n H\u00f2a An",
+        "maquanhuyen": "051"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1nh Tr\u1ecb",
+        "maquanhuyen": "949"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1ch Th\u00e0nh",
+        "maquanhuyen": "391"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc Tr\u00e0 My",
+        "maquanhuyen": "515"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n Tam N\u00f4ng",
+        "maquanhuyen": "236"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u00e0 Giang",
+        "maquanhuyen": "024"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n C\u01b0 J\u00fat",
+        "maquanhuyen": "662"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Huy\u1ec7n Tuy An",
+        "maquanhuyen": "559"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn T\u00e2y H\u1ed3",
+        "maquanhuyen": "003"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n Thanh B\u00ecnh",
+        "maquanhuyen": "874"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh L\u1ee3i",
+        "maquanhuyen": "958"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 V\u0129nh Long",
+        "maquanhuyen": "855"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Ho\u00e0ng Mai",
+        "maquanhuyen": "008"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n S\u01a1n H\u00e0",
+        "maquanhuyen": "529"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n Giang",
+        "maquanhuyen": "326"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Ho\u1eb1ng H\u00f3a",
+        "maquanhuyen": "399"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea9m Th\u1ee7y",
+        "maquanhuyen": "390"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa L\u01b0\u01a1ng",
+        "maquanhuyen": "168"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n Ia H' Drai",
+        "maquanhuyen": "618"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn T\u00e2n Ph\u00fa",
+        "maquanhuyen": "767"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Huy\u1ec7n V\u0169ng Li\u00eam",
+        "maquanhuyen": "859"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n U Minh",
+        "maquanhuyen": "966"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ecf C\u00e0y Nam",
+        "maquanhuyen": "833"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n Tuy Phong",
+        "maquanhuyen": "595"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn H\u00e0 \u0110\u00f4ng",
+        "maquanhuyen": "268"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n H\u1eadu L\u1ed9c",
+        "maquanhuyen": "400"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n Ba Tri",
+        "maquanhuyen": "836"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n L\u1eafk",
+        "maquanhuyen": "656"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n Nh\u01a1n Tr\u1ea1ch",
+        "maquanhuyen": "742"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1nh H\u00f3a",
+        "maquanhuyen": "800"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n T\u01b0\u01a1ng D\u01b0\u01a1ng",
+        "maquanhuyen": "418"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 \u0110i\u1ec7n B\u00e0n",
+        "maquanhuyen": "507"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh Thu\u1eadn",
+        "maquanhuyen": "910"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1eafk Glei",
+        "maquanhuyen": "610"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "905"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh A",
+        "maquanhuyen": "932"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n Vi\u1ec7t Y\u00ean",
+        "maquanhuyen": "222"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u01a1n D\u01b0\u01a1ng",
+        "maquanhuyen": "677"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 V\u0129nh Y\u00ean",
+        "maquanhuyen": "243"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n N\u00f4ng C\u1ed1ng",
+        "maquanhuyen": "404"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ef9 T\u00fa",
+        "maquanhuyen": "944"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 C\u00e0 Mau",
+        "maquanhuyen": "964"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 B\u1ea3o L\u1ed9c",
+        "maquanhuyen": "673"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Huy\u1ec7n S\u01a1n D\u01b0\u01a1ng",
+        "maquanhuyen": "076"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n \u00dd Y\u00ean",
+        "maquanhuyen": "360"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc H\u00e0",
+        "maquanhuyen": "085"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+        "maquanhuyen": "002"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Phan Thi\u1ebft",
+        "maquanhuyen": "593"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n Long Ph\u00fa",
+        "maquanhuyen": "946"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n M\u00f9 Cang Ch\u1ea3i",
+        "maquanhuyen": "137"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Huy\u1ec7n Gia Vi\u1ec5n",
+        "maquanhuyen": "373"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n S\u01a1n T\u1ecbnh",
+        "maquanhuyen": "527"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n Di Linh",
+        "maquanhuyen": "679"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n Gia L\u1ed9c",
+        "maquanhuyen": "297"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Long M\u1ef9",
+        "maquanhuyen": "937"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ef3 H\u1ee3p",
+        "maquanhuyen": "420"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ef3nh Ph\u1ee5",
+        "maquanhuyen": "338"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 V\u1ecb Thanh",
+        "maquanhuyen": "930"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Duy\u00ean H\u1ea3i",
+        "maquanhuyen": "851"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Kh\u00e1nh",
+        "maquanhuyen": "375"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ef9 L\u1ed9c",
+        "maquanhuyen": "358"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh L\u1ed9c",
+        "maquanhuyen": "393"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 B\u00ecnh Minh",
+        "maquanhuyen": "861"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 An Kh\u00ea",
+        "maquanhuyen": "623"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea7n \u0110\u01b0\u1edbc",
+        "maquanhuyen": "806"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa H\u00f2a",
+        "maquanhuyen": "563"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Gia Ngh\u0129a",
+        "maquanhuyen": "660"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea7n Giu\u1ed9c",
+        "maquanhuyen": "807"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u1ec1n H\u1ea3i",
+        "maquanhuyen": "342"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fac Th\u1ecd",
+        "maquanhuyen": "272"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 B\u1eafc Ninh",
+        "maquanhuyen": "256"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n B\u00e1t X\u00e1t",
+        "maquanhuyen": "082"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n N\u00f4ng S\u01a1n",
+        "maquanhuyen": "519"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Nam",
+        "matinhthanh": "35",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Li\u00eam",
+        "maquanhuyen": "351"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Huy\u1ec7n H\u00f2a Vang",
+        "maquanhuyen": "497"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n L\u00e2m H\u00e0",
+        "maquanhuyen": "676"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Th\u1ebf",
+        "maquanhuyen": "215"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u01b0 P\u01b0h",
+        "maquanhuyen": "639"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u01b0ng Y\u00ean",
+        "maquanhuyen": "323"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Ngh\u0129a \u0110\u00e0n",
+        "maquanhuyen": "419"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n \u1ee8ng H\u00f2a",
+        "maquanhuyen": "281"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Huy\u1ec7n B\u00e0u B\u00e0ng",
+        "maquanhuyen": "719"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Ph\u00fa \u0110\u00f4ng",
+        "maquanhuyen": "825"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u01b0\u1edbc S\u01a1n",
+        "maquanhuyen": "511"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n K\u1ef3 S\u01a1n",
+        "maquanhuyen": "417"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 12",
+        "maquanhuyen": "761"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n Ki\u1ebfn Thu\u1ef5",
+        "maquanhuyen": "314"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Th\u00e1i B\u00ecnh",
+        "maquanhuyen": "336"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ed9c B\u00ecnh",
+        "maquanhuyen": "188"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u1ee5ng Hi\u1ec7p",
+        "maquanhuyen": "934"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Hai B\u00e0 Tr\u01b0ng",
+        "maquanhuyen": "007"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn L\u00ea Ch\u00e2n",
+        "maquanhuyen": "305"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ee9c C\u01a1",
+        "maquanhuyen": "631"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Nam",
+        "matinhthanh": "35",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Ph\u1ee7 L\u00fd",
+        "maquanhuyen": "347"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u00ean Du",
+        "maquanhuyen": "260"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
+        "maquanhuyen": "924"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n Tuy \u0110\u1ee9c",
+        "maquanhuyen": "667"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u1ef1c Ninh",
+        "maquanhuyen": "363"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ef3nh L\u01b0u",
+        "maquanhuyen": "421"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u1ea1m T\u1ea5u",
+        "maquanhuyen": "139"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng N\u00f4",
+        "maquanhuyen": "664"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Huy\u1ec7n Nho Quan",
+        "maquanhuyen": "372"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n Kim \u0110\u1ed9ng",
+        "maquanhuyen": "331"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Th\u1ee7y",
+        "maquanhuyen": "158"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ed3ng H\u1ef7",
+        "maquanhuyen": "169"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea7u K\u00e8",
+        "maquanhuyen": "845"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n Kho\u00e1i Ch\u00e2u",
+        "maquanhuyen": "330"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n V\u1ecb Xuy\u00ean",
+        "maquanhuyen": "030"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n S\u01a1n T\u00e2y",
+        "maquanhuyen": "530"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Th\u1ea1nh",
+        "maquanhuyen": "799"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 H\u00f2a Th\u00e0nh",
+        "maquanhuyen": "709"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Huy\u1ec7n H\u00f2a B\u00ecnh",
+        "maquanhuyen": "961"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ea1c S\u01a1n",
+        "maquanhuyen": "157"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh C\u1eedu",
+        "maquanhuyen": "735"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Tr\u00e0 Vinh",
+        "maquanhuyen": "842"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ef3nh Nhai",
+        "maquanhuyen": "118"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Huy\u1ec7n D\u1ea7u Ti\u1ebfng",
+        "maquanhuyen": "720"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ho\u00e0ng Mai",
+        "maquanhuyen": "432"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ea3i L\u0103ng",
+        "maquanhuyen": "470"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ea3i H\u00e0",
+        "maquanhuyen": "201"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ea1 Lang",
+        "maquanhuyen": "048"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Sa \u0110\u00e9c",
+        "maquanhuyen": "867"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ee9c Tr\u1ecdng",
+        "maquanhuyen": "678"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Ch\u00e2u",
+        "maquanhuyen": "706"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ph\u01b0\u1edbc Long",
+        "maquanhuyen": "688"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 S\u00f3c Tr\u0103ng",
+        "maquanhuyen": "941"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ia Pa",
+        "maquanhuyen": "635"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Th\u01b0\u1eddng Xu\u00e2n",
+        "maquanhuyen": "396"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ee5c Y\u00ean",
+        "maquanhuyen": "135"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 D\u0129 An",
+        "maquanhuyen": "724"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Vang",
+        "maquanhuyen": "478"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea3o Y\u00ean",
+        "maquanhuyen": "087"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n K\u1ef3 Anh",
+        "maquanhuyen": "447"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u1ea5n Y\u00ean",
+        "maquanhuyen": "138"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh S\u01a1n",
+        "maquanhuyen": "524"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n T\u1ecbnh Bi\u00ean",
+        "maquanhuyen": "890"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ph\u1ed5 Y\u00ean",
+        "maquanhuyen": "172"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00f9 Y\u00ean",
+        "maquanhuyen": "122"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u1ee3 M\u1edbi",
+        "maquanhuyen": "065"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 V\u0129nh Ch\u00e2u",
+        "maquanhuyen": "950"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ef3 Ch\u00e2u",
+        "maquanhuyen": "416"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n Th\u00e1p M\u01b0\u1eddi",
+        "maquanhuyen": "872"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh T\u01b0\u1eddng",
+        "maquanhuyen": "252"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n L\u00fd S\u01a1n",
+        "maquanhuyen": "536"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 T\u00e2n An",
+        "maquanhuyen": "794"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n S\u00ecn H\u1ed3",
+        "maquanhuyen": "108"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Phan Rang-Th\u00e1p Ch\u00e0m",
+        "maquanhuyen": "582"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n L\u1ea1c",
+        "maquanhuyen": "155"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n Ninh Giang",
+        "maquanhuyen": "299"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u0103k \u0110oa",
+        "maquanhuyen": "626"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "821"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 3",
+        "maquanhuyen": "770"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea1i T\u1eeb",
+        "maquanhuyen": "171"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u01b0 S\u00ea",
+        "maquanhuyen": "633"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Thanh Xu\u00e2n",
+        "maquanhuyen": "009"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 T\u1eeb S\u01a1n",
+        "maquanhuyen": "261"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n Kim B\u00f4i",
+        "maquanhuyen": "153"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea9m Xuy\u00ean",
+        "maquanhuyen": "446"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Duy Xuy\u00ean",
+        "maquanhuyen": "508"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1eafk T\u00f4",
+        "maquanhuyen": "612"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n Gio Linh",
+        "maquanhuyen": "466"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n Tu\u1ea7n Gi\u00e1o",
+        "maquanhuyen": "099"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00f4ng H\u1ea3i",
+        "maquanhuyen": "960"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u01b0\u1edbc Long",
+        "maquanhuyen": "957"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc T\u00e2n Uy\u00ean",
+        "maquanhuyen": "726"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n M\u00ea Linh",
+        "maquanhuyen": "250"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ho\u00e0i Nh\u01a1n",
+        "maquanhuyen": "543"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ed9c H\u00f3a",
+        "maquanhuyen": "798"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh T\u00e2n",
+        "maquanhuyen": "863"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Th\u1ee7 D\u1ea7u M\u1ed9t",
+        "maquanhuyen": "718"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Cai L\u1eady",
+        "maquanhuyen": "817"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n H\u01b0\u01a1ng Kh\u00ea",
+        "maquanhuyen": "444"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n Than Uy\u00ean",
+        "maquanhuyen": "110"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Long Kh\u00e1nh",
+        "maquanhuyen": "732"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Huy\u1ec7n Chi\u00eam H\u00f3a",
+        "maquanhuyen": "073"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 La Gi",
+        "maquanhuyen": "594"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea7n Gi\u1edd",
+        "maquanhuyen": "787"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n Hi\u1ec7p H\u00f2a",
+        "maquanhuyen": "223"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n \u00c2n Thi",
+        "maquanhuyen": "329"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Ea H'leo",
+        "maquanhuyen": "645"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea1ch Th\u00f4ng",
+        "maquanhuyen": "063"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ba \u0110\u1ed3n",
+        "maquanhuyen": "458"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ee7 Th\u1eeba",
+        "maquanhuyen": "804"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ebf Phong",
+        "maquanhuyen": "415"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ea3n B\u1ea1",
+        "maquanhuyen": "029"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+        "maquanhuyen": "492"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ee9c Hu\u1ec7",
+        "maquanhuyen": "801"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Ph\u00fa",
+        "maquanhuyen": "734"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Huy\u1ec7n Tam B\u00ecnh",
+        "maquanhuyen": "860"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Bu\u00f4n Ma Thu\u1ed9t",
+        "maquanhuyen": "643"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n C\u00f4 T\u00f4",
+        "maquanhuyen": "207"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc S\u01a1n",
+        "maquanhuyen": "185"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "847"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u1ee3 \u0110\u1ed3n",
+        "maquanhuyen": "064"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 L\u1ea1ng S\u01a1n",
+        "maquanhuyen": "178"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Hi\u1ec7p \u0110\u1ee9c",
+        "maquanhuyen": "512"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "maquanhuyen": "680"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n \u0110an Ph\u01b0\u1ee3ng",
+        "maquanhuyen": "273"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn T\u00e2n B\u00ecnh",
+        "maquanhuyen": "766"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u1ee3 M\u1edbi",
+        "maquanhuyen": "893"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2y Giang",
+        "maquanhuyen": "504"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Mi\u1ec7n",
+        "maquanhuyen": "300"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u1ea3ng Bom",
+        "maquanhuyen": "737"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n H\u00e0m T\u00e2n",
+        "maquanhuyen": "601"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Huy\u1ec7n Ninh S\u01a1n",
+        "maquanhuyen": "585"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ebfn C\u1ea7u",
+        "maquanhuyen": "711"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n H\u01b0ng",
+        "maquanhuyen": "796"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Huy\u1ec7n S\u01a1n H\u00f2a",
+        "maquanhuyen": "560"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 B\u1ea1c Li\u00eau",
+        "maquanhuyen": "954"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Sa Pa",
+        "maquanhuyen": "088"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n S\u01a1n \u0110\u1ed9ng",
+        "maquanhuyen": "220"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n Tam N\u00f4ng",
+        "maquanhuyen": "871"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Huy\u1ec7n B\u00e1c \u00c1i",
+        "maquanhuyen": "584"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Th\u00e0nh Ph\u1ed1 H\u00e0 Ti\u00ean",
+        "maquanhuyen": "900"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Huy\u1ec7n Ninh Ph\u01b0\u1edbc",
+        "maquanhuyen": "587"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ngh\u0129a L\u1ed9",
+        "maquanhuyen": "133"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1eafk Mil",
+        "maquanhuyen": "663"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn B\u00ecnh T\u00e2n",
+        "maquanhuyen": "777"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Huy\u1ec7n H\u00e0m Y\u00ean",
+        "maquanhuyen": "074"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "831"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn Ph\u00fa Nhu\u1eadn",
+        "maquanhuyen": "768"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n Tuy Ph\u01b0\u1edbc",
+        "maquanhuyen": "550"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Qu\u1eadn C\u1ea9m L\u1ec7",
+        "maquanhuyen": "495"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u01a1n Th\u00e0nh",
+        "maquanhuyen": "697"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 7",
+        "maquanhuyen": "778"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n Cai L\u1eady",
+        "maquanhuyen": "820"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u0103k P\u01a1",
+        "maquanhuyen": "634"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n B\u00f9 \u0110\u0103ng",
+        "maquanhuyen": "696"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Ch\u00e2u \u0110\u1ed1c",
+        "maquanhuyen": "884"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n C\u00e1i B\u00e8",
+        "maquanhuyen": "819"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 1",
+        "maquanhuyen": "760"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Nam Giang",
+        "maquanhuyen": "510"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Tr\u00ec",
+        "maquanhuyen": "020"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n \u0110akr\u00f4ng",
+        "maquanhuyen": "467"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 10",
+        "maquanhuyen": "771"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Ch\u00ed Linh",
+        "maquanhuyen": "290"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00f4 L\u01b0\u01a1ng",
+        "maquanhuyen": "427"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea1 T\u1ebbh",
+        "maquanhuyen": "682"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n N\u1eadm P\u1ed3",
+        "maquanhuyen": "103"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n Mai S\u01a1n",
+        "maquanhuyen": "125"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn H\u1ea3i An",
+        "maquanhuyen": "306"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng Pa",
+        "maquanhuyen": "637"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Tam \u0110i\u1ec7p",
+        "maquanhuyen": "370"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n Thanh S\u01a1n",
+        "maquanhuyen": "238"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Ng\u1ecdc L\u1eb7c",
+        "maquanhuyen": "389"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 \u0110\u00f4ng H\u00e0",
+        "maquanhuyen": "461"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Nam Tr\u00e0 My",
+        "maquanhuyen": "516"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n Sa Th\u1ea7y",
+        "maquanhuyen": "616"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n Nam S\u00e1ch",
+        "maquanhuyen": "291"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n Th\u00e1i Th\u1ee5y",
+        "maquanhuyen": "341"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n V\u00e2n Canh",
+        "maquanhuyen": "551"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 B\u1ebfn Tre",
+        "maquanhuyen": "829"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n H\u00f2n \u0110\u1ea5t",
+        "maquanhuyen": "903"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh B\u1ea3o",
+        "maquanhuyen": "316"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Uy\u00ean",
+        "maquanhuyen": "111"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "maquanhuyen": "042"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u00ean L\u00e3ng",
+        "maquanhuyen": "315"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00f4ng Anh",
+        "maquanhuyen": "017"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 M\u00f3ng C\u00e1i",
+        "maquanhuyen": "194"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Nam",
+        "matinhthanh": "35",
+        "tenquanhuyen": "Huy\u1ec7n L\u00fd Nh\u00e2n",
+        "maquanhuyen": "353"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n Cao L\u00e3nh",
+        "maquanhuyen": "873"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Qu\u1eadn \u00d4 M\u00f4n",
+        "maquanhuyen": "917"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ed1ng Nh\u1ea5t",
+        "maquanhuyen": "738"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Huy\u1ec7n Kh\u00e1nh S\u01a1n",
+        "maquanhuyen": "575"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n Ng\u1ecdc H\u1ed3i",
+        "maquanhuyen": "611"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n C\u1ea7u Ngang",
+        "maquanhuyen": "848"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 B\u00e0 R\u1ecba",
+        "maquanhuyen": "748"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Di\u1ec5n Ch\u00e2u",
+        "maquanhuyen": "425"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh",
+        "maquanhuyen": "047"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n K\u00f4ng Chro",
+        "maquanhuyen": "630"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Long Xuy\u00ean",
+        "maquanhuyen": "883"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Xuy\u00ean",
+        "maquanhuyen": "280"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Huy\u1ec7n Ho\u00e0ng Sa",
+        "maquanhuyen": "498"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 B\u1ebfn C\u00e1t",
+        "maquanhuyen": "721"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00f9 M\u1ef9",
+        "maquanhuyen": "545"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00ecnh L\u1eadp",
+        "maquanhuyen": "189"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 6",
+        "maquanhuyen": "775"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ia Grai",
+        "maquanhuyen": "628"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Huy\u1ec7n Tuy\u00ean H\u00f3a",
+        "maquanhuyen": "453"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Gi\u00e1 Rai",
+        "maquanhuyen": "959"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean L\u1ea1c",
+        "maquanhuyen": "251"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Th\u00e0nh",
+        "maquanhuyen": "426"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n An Ph\u00fa",
+        "maquanhuyen": "886"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
+        "maquanhuyen": "546"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Vinh",
+        "maquanhuyen": "412"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 T\u00e2y Ninh",
+        "maquanhuyen": "703"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng B\u00f4ng",
+        "maquanhuyen": "653"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Ri\u1ec1ng",
+        "maquanhuyen": "698"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea7m H\u00e0",
+        "maquanhuyen": "200"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00f9 C\u00e1t",
+        "maquanhuyen": "548"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n U Minh Th\u01b0\u1ee3ng",
+        "maquanhuyen": "913"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Huy\u1ec7n Ninh H\u1ea3i",
+        "maquanhuyen": "586"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng P\u1eafc",
+        "maquanhuyen": "654"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "933"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Mang Yang",
+        "maquanhuyen": "629"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Nam \u0110\u00e0n",
+        "maquanhuyen": "430"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1eafk H\u00e0",
+        "maquanhuyen": "615"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Nam",
+        "matinhthanh": "35",
+        "tenquanhuyen": "Huy\u1ec7n Kim B\u1ea3ng",
+        "maquanhuyen": "350"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 G\u00f2 C\u00f4ng",
+        "maquanhuyen": "816"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Tri\u1ec7u S\u01a1n",
+        "maquanhuyen": "397"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 S\u00f4ng C\u1ea7u",
+        "maquanhuyen": "557"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ea3i H\u1eadu",
+        "maquanhuyen": "366"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Ch\u00e2u",
+        "maquanhuyen": "124"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 \u0110\u1ed3ng Xo\u00e0i",
+        "maquanhuyen": "689"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Huy\u1ec7n C\u00f4n \u0110\u1ea3o",
+        "maquanhuyen": "755"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Quan H\u00f3a",
+        "maquanhuyen": "385"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 T\u00e2n Ch\u00e2u",
+        "maquanhuyen": "887"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Huy\u1ec7n Di\u00ean Kh\u00e1nh",
+        "maquanhuyen": "574"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n L\u00e3ng",
+        "maquanhuyen": "182"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Huy\u1ec7n Gia B\u00ecnh",
+        "maquanhuyen": "263"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea3o Th\u1eafng",
+        "maquanhuyen": "086"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ea1ng Giang",
+        "maquanhuyen": "217"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Nga S\u01a1n",
+        "maquanhuyen": "401"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 H\u1ed3ng L\u0129nh",
+        "maquanhuyen": "437"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean Phong",
+        "maquanhuyen": "258"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n Cam L\u1ed9",
+        "maquanhuyen": "468"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Qu\u1ea3ng Tr\u1ecb",
+        "maquanhuyen": "462"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Huy\u1ec7n Thu\u1eadn Th\u00e0nh",
+        "maquanhuyen": "262"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Th\u00e0nh Ph\u1ed1 \u0110\u1ed3ng H\u1edbi",
+        "maquanhuyen": "450"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Qu\u1eadn Thanh Kh\u00ea",
+        "maquanhuyen": "491"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn \u0110\u1ed3 S\u01a1n",
+        "maquanhuyen": "308"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ed9c Ninh",
+        "maquanhuyen": "692"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng Kh\u01b0\u01a1ng",
+        "maquanhuyen": "083"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Nam",
+        "matinhthanh": "35",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Duy Ti\u00ean",
+        "maquanhuyen": "349"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Th\u01b0\u1eddng T\u00edn",
+        "maquanhuyen": "279"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn G\u00f2 V\u1ea5p",
+        "maquanhuyen": "764"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n Giang Th\u00e0nh",
+        "maquanhuyen": "914"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Huy\u1ec7n A L\u01b0\u1edbi",
+        "maquanhuyen": "481"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n \u0110i\u1ec7n Bi\u00ean",
+        "maquanhuyen": "100"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n Nam Tr\u1ef1c",
+        "maquanhuyen": "362"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u0103k Glong",
+        "maquanhuyen": "661"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n Tu M\u01a1 R\u00f4ng",
+        "maquanhuyen": "617"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n Y\u00ean",
+        "maquanhuyen": "136"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 11",
+        "maquanhuyen": "772"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Kinh M\u00f4n",
+        "maquanhuyen": "292"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn D\u01b0\u01a1ng Kinh",
+        "maquanhuyen": "309"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa T\u00e2n",
+        "maquanhuyen": "972"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Ninh",
+        "maquanhuyen": "518"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n B\u00e1 Th\u01b0\u1edbc",
+        "maquanhuyen": "386"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n Tam D\u01b0\u01a1ng",
+        "maquanhuyen": "247"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Qu\u1eadn Li\u00ean Chi\u1ec3u",
+        "maquanhuyen": "490"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n T\u1ee7a Ch\u00f9a",
+        "maquanhuyen": "098"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ebf S\u01a1n",
+        "maquanhuyen": "509"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ee9c Th\u1ecd",
+        "maquanhuyen": "440"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Long",
+        "matinhthanh": "86",
+        "tenquanhuyen": "Huy\u1ec7n Long H\u1ed3",
+        "maquanhuyen": "857"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Y\u00ean B\u00e1i",
+        "matinhthanh": "15",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n Ch\u1ea5n",
+        "maquanhuyen": "140"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Cam Ranh",
+        "maquanhuyen": "569"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Anh S\u01a1n",
+        "maquanhuyen": "424"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u1ea7n \u0110\u1ec1",
+        "maquanhuyen": "951"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Nam",
+        "matinhthanh": "35",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh L\u1ee5c",
+        "maquanhuyen": "352"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Tam K\u1ef3",
+        "maquanhuyen": "502"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n Ki\u00ean H\u1ea3i",
+        "maquanhuyen": "912"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n C\u00e1t H\u1ea3i",
+        "maquanhuyen": "317"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Huy\u1ec7n D\u01b0\u01a1ng Minh Ch\u00e2u",
+        "maquanhuyen": "707"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n Tho\u1ea1i S\u01a1n",
+        "maquanhuyen": "894"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh Gia",
+        "maquanhuyen": "181"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Huy\u1ec7n Minh H\u00f3a",
+        "maquanhuyen": "452"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u00e0 B\u1ed3ng",
+        "maquanhuyen": "525"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ecd Xu\u00e2n",
+        "maquanhuyen": "395"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u1ed3ng Ng\u1ef1",
+        "maquanhuyen": "868"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00f4ng H\u01b0ng",
+        "maquanhuyen": "340"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Ba \u0110\u00ecnh",
+        "maquanhuyen": "001"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n Kim Th\u00e0nh",
+        "maquanhuyen": "293"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n \u0110oan H\u00f9ng",
+        "maquanhuyen": "230"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n Thanh H\u00e0",
+        "maquanhuyen": "294"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n M\u00e8o V\u1ea1c",
+        "maquanhuyen": "027"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u1ea3i D\u01b0\u01a1ng",
+        "maquanhuyen": "288"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 An Nh\u01a1n",
+        "maquanhuyen": "549"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 8",
+        "maquanhuyen": "776"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n G\u00f2 C\u00f4ng \u0110\u00f4ng",
+        "maquanhuyen": "824"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n V\u0169 Th\u01b0",
+        "maquanhuyen": "344"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ebfn Tre",
+        "matinhthanh": "83",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ecf C\u00e0y B\u1eafc",
+        "maquanhuyen": "838"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Th\u00e0nh Ph\u1ed1 B\u1eafc K\u1ea1n",
+        "maquanhuyen": "058"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ecbnh H\u00f3a",
+        "maquanhuyen": "167"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean S\u01a1n",
+        "maquanhuyen": "075"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa T\u00e2n",
+        "maquanhuyen": "888"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00f9 C\u1eeb",
+        "maquanhuyen": "333"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh An Giang",
+        "matinhthanh": "89",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Ph\u00fa",
+        "maquanhuyen": "889"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n Tr\u00e0ng \u0110\u1ecbnh",
+        "maquanhuyen": "180"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1ch Th\u1ea5t",
+        "maquanhuyen": "276"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh Giang",
+        "maquanhuyen": "296"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng La",
+        "maquanhuyen": "120"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh Xuy\u00ean",
+        "maquanhuyen": "249"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u \u0110\u1ee9c",
+        "maquanhuyen": "750"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Huy\u1ec7n M\u01b0\u1eddng Ch\u00e0",
+        "maquanhuyen": "097"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 B\u00ecnh Long",
+        "maquanhuyen": "690"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u00ean Ph\u01b0\u1edbc",
+        "maquanhuyen": "514"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 B\u1eafc Giang",
+        "maquanhuyen": "213"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc B\u00ecnh",
+        "maquanhuyen": "596"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Tuy\u00ean Quang",
+        "maquanhuyen": "070"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 H\u01b0\u01a1ng Th\u1ee7y",
+        "maquanhuyen": "479"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u00f2a B\u00ecnh",
+        "maquanhuyen": "148"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n H\u01b0ng Nguy\u00ean",
+        "maquanhuyen": "431"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n Nghi Xu\u00e2n",
+        "maquanhuyen": "442"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Qu\u1eadn C\u00e1i R\u0103ng",
+        "maquanhuyen": "919"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng",
+        "matinhthanh": "30",
+        "tenquanhuyen": "Huy\u1ec7n T\u1ee9 K\u1ef3",
+        "maquanhuyen": "298"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Ba",
+        "maquanhuyen": "232"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n Giao Th\u1ee7y",
+        "maquanhuyen": "365"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 L\u00e0o Cai",
+        "maquanhuyen": "080"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1edbi Lai",
+        "maquanhuyen": "927"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Huy\u1ec7n Thu\u1eadn B\u1eafc",
+        "maquanhuyen": "588"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n Ho\u00e0ng Su Ph\u00ec",
+        "maquanhuyen": "032"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ed3ng Ng\u1ef1",
+        "maquanhuyen": "870"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n Cao Phong",
+        "maquanhuyen": "154"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 M\u1ef9 Tho",
+        "maquanhuyen": "815"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n Ti\u00ean Y\u00ean",
+        "maquanhuyen": "199"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n \u0110am R\u00f4ng",
+        "maquanhuyen": "674"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n V\u00e2n H\u1ed3",
+        "maquanhuyen": "128"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Huy\u1ec7n An D\u01b0\u01a1ng",
+        "maquanhuyen": "312"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Qu\u1eadn Th\u1ed1t N\u1ed1t",
+        "maquanhuyen": "923"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Vi\u1ec7t Tr\u00ec",
+        "maquanhuyen": "227"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh Ch\u00e1nh",
+        "maquanhuyen": "785"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n C\u00f9 Lao Dung",
+        "maquanhuyen": "945"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n Ngh\u0129a H\u00e0nh",
+        "maquanhuyen": "532"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u1eadu Giang",
+        "matinhthanh": "93",
+        "tenquanhuyen": "Huy\u1ec7n V\u1ecb Th\u1ee7y",
+        "maquanhuyen": "935"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa B\u00ecnh",
+        "maquanhuyen": "173"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n Duy\u00ean H\u1ea3i",
+        "maquanhuyen": "850"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n C\u00e1t Ti\u00ean",
+        "maquanhuyen": "683"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n B\u1eafc Quang",
+        "maquanhuyen": "034"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ed9c Ch\u00e2u",
+        "maquanhuyen": "123"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Huy\u1ec7n S\u00f4ng Hinh",
+        "maquanhuyen": "561"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kh\u00e1nh H\u00f2a",
+        "matinhthanh": "56",
+        "tenquanhuyen": "Huy\u1ec7n V\u1ea1n Ninh",
+        "maquanhuyen": "571"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "708"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Huy\u1ec7n Kim S\u01a1n",
+        "maquanhuyen": "376"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ea3i Ph\u00f2ng",
+        "matinhthanh": "31",
+        "tenquanhuyen": "Qu\u1eadn H\u1ed3ng B\u00e0ng",
+        "maquanhuyen": "303"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ayun Pa",
+        "maquanhuyen": "624"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Lai Ch\u00e2u",
+        "maquanhuyen": "105"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 C\u1ea9m Ph\u1ea3",
+        "maquanhuyen": "195"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1edbi B\u00ecnh",
+        "maquanhuyen": "967"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n S\u1ed1p C\u1ed9p",
+        "maquanhuyen": "127"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n B\u00ecnh Li\u00eau",
+        "maquanhuyen": "198"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ebf V\u00f5",
+        "maquanhuyen": "259"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ng\u00e3 N\u0103m",
+        "maquanhuyen": "948"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Thanh H\u00f3a",
+        "maquanhuyen": "380"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ed1c Oai",
+        "maquanhuyen": "275"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n Ba B\u1ec3",
+        "maquanhuyen": "061"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Thu\u1eadn",
+        "matinhthanh": "60",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ee9c Linh",
+        "maquanhuyen": "600"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea5t \u0110\u1ecf",
+        "maquanhuyen": "753"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1ea1c Li\u00eau",
+        "matinhthanh": "95",
+        "tenquanhuyen": "Huy\u1ec7n H\u1ed3ng D\u00e2n",
+        "maquanhuyen": "956"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n Quan",
+        "maquanhuyen": "184"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh C\u00e0 Mau",
+        "matinhthanh": "96",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea7m D\u01a1i",
+        "maquanhuyen": "970"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n Si Ma Cai",
+        "maquanhuyen": "084"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n B\u00f9 \u0110\u1ed1p",
+        "maquanhuyen": "693"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n C\u01b0 Kuin",
+        "maquanhuyen": "657"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n Mai Ch\u00e2u",
+        "maquanhuyen": "156"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Huy\u1ec7n S\u00f4ng L\u00f4",
+        "maquanhuyen": "253"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n Tam \u0110\u01b0\u1eddng",
+        "maquanhuyen": "106"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Ch\u01b0\u01a1ng",
+        "maquanhuyen": "428"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n H\u00e0 Qu\u1ea3ng",
+        "maquanhuyen": "045"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn Long Bi\u00ean",
+        "maquanhuyen": "004"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ebfn L\u1ee9c",
+        "maquanhuyen": "803"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Th\u1ecb X\u00e3 Bu\u00f4n H\u1ed3",
+        "maquanhuyen": "644"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n H\u01b0\u1edbng H\u00f3a",
+        "maquanhuyen": "465"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n V\u00e2n \u0110\u1ed3n",
+        "maquanhuyen": "203"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Hi\u1ec7p",
+        "maquanhuyen": "904"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Thu\u1eadn An",
+        "maquanhuyen": "725"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ea1 Huoai",
+        "maquanhuyen": "681"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 C\u1ea7n Th\u01a1",
+        "matinhthanh": "92",
+        "tenquanhuyen": "Huy\u1ec7n C\u1edd \u0110\u1ecf",
+        "maquanhuyen": "925"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Huy\u1ec7n H\u00f3c M\u00f4n",
+        "maquanhuyen": "784"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n Nguy\u00ean B\u00ecnh",
+        "maquanhuyen": "052"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Huy\u1ec7n V\u00f5 Nhai",
+        "maquanhuyen": "170"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Qu\u1eadn Ng\u0169 H\u00e0nh S\u01a1n",
+        "maquanhuyen": "494"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Huy\u1ec7n Kon R\u1eaby",
+        "maquanhuyen": "614"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh T\u00e2y Ninh",
+        "matinhthanh": "72",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Bi\u00ean",
+        "maquanhuyen": "705"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng",
+        "matinhthanh": "74",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Gi\u00e1o",
+        "maquanhuyen": "722"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 S\u01a1n T\u00e2y",
+        "maquanhuyen": "269"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00e0 B\u1eafc",
+        "maquanhuyen": "150"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110i\u1ec7n Bi\u00ean",
+        "matinhthanh": "11",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+        "maquanhuyen": "094"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n C\u01b0 M'gar",
+        "maquanhuyen": "648"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u01a1n La",
+        "matinhthanh": "14",
+        "tenquanhuyen": "Huy\u1ec7n Thu\u1eadn Ch\u00e2u",
+        "maquanhuyen": "119"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n Ngh\u0129a H\u01b0ng",
+        "maquanhuyen": "361"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "maquanhuyen": "942"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i Nguy\u00ean",
+        "matinhthanh": "19",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 S\u00f4ng C\u00f4ng",
+        "maquanhuyen": "165"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Huy\u1ec7n Xuy\u00ean M\u1ed9c",
+        "maquanhuyen": "751"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n K\u1ef3",
+        "maquanhuyen": "423"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Huy\u1ec7n Y\u00ean M\u1ef9",
+        "maquanhuyen": "327"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng B\u00fak",
+        "maquanhuyen": "649"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh B\u00ecnh",
+        "matinhthanh": "37",
+        "tenquanhuyen": "Huy\u1ec7n Hoa L\u01b0",
+        "maquanhuyen": "374"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tr\u00e0 Vinh",
+        "matinhthanh": "84",
+        "tenquanhuyen": "Huy\u1ec7n C\u00e0ng Long",
+        "maquanhuyen": "844"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ph\u00fa Thi\u1ec7n",
+        "maquanhuyen": "638"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n Th\u1ea1ch H\u00e0",
+        "maquanhuyen": "445"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1eafk Song",
+        "maquanhuyen": "665"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n Y\u00ean",
+        "maquanhuyen": "216"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ee9c H\u00f2a",
+        "maquanhuyen": "802"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "matinhthanh": "70",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1ed3ng Ph\u00fa",
+        "maquanhuyen": "695"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Huy\u1ec7n Nghi L\u1ed9c",
+        "maquanhuyen": "429"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk N\u00f4ng",
+        "matinhthanh": "67",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u1eafk R'L\u1ea5p",
+        "maquanhuyen": "666"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 T\u0129nh",
+        "matinhthanh": "42",
+        "tenquanhuyen": "Huy\u1ec7n Can L\u1ed9c",
+        "maquanhuyen": "443"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ed1 Tr\u1ea1ch",
+        "maquanhuyen": "455"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 B\u1ec9m S\u01a1n",
+        "maquanhuyen": "381"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Huy\u1ec7n Phong \u0110i\u1ec1n",
+        "maquanhuyen": "476"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Huy\u1ec7n \u0110\u00f4ng Giang",
+        "maquanhuyen": "505"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Long An",
+        "matinhthanh": "80",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ki\u1ebfn T\u01b0\u1eddng",
+        "maquanhuyen": "795"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Bu\u00f4n \u0110\u00f4n",
+        "maquanhuyen": "647"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Hu\u1ebf",
+        "maquanhuyen": "474"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n An L\u00e3o",
+        "maquanhuyen": "542"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Thi\u1ec7u H\u00f3a",
+        "maquanhuyen": "398"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n Ho\u00e0i \u00c2n",
+        "maquanhuyen": "544"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Kr\u00f4ng A Na",
+        "maquanhuyen": "655"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Huy\u1ec7n Quan S\u01a1n",
+        "maquanhuyen": "387"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Ninh",
+        "matinhthanh": "27",
+        "tenquanhuyen": "Huy\u1ec7n L\u01b0\u01a1ng T\u00e0i",
+        "maquanhuyen": "264"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ee5c Nam",
+        "maquanhuyen": "218"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Lai Ch\u00e2u",
+        "matinhthanh": "12",
+        "tenquanhuyen": "Huy\u1ec7n Phong Th\u1ed5",
+        "maquanhuyen": "109"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ea3ng H\u00f2a",
+        "maquanhuyen": "049"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 4",
+        "maquanhuyen": "773"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ho\u00e0 B\u00ecnh",
+        "matinhthanh": "17",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ea1c Th\u1ee7y",
+        "maquanhuyen": "159"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u01b0ng Y\u00ean",
+        "matinhthanh": "33",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 M\u1ef9 H\u00e0o",
+        "maquanhuyen": "328"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ninh Thu\u1eadn",
+        "matinhthanh": "58",
+        "tenquanhuyen": "Huy\u1ec7n Thu\u1eadn Nam",
+        "maquanhuyen": "589"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n G\u00f2 Quao",
+        "maquanhuyen": "907"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Thanh H\u00f3a",
+        "matinhthanh": "38",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Nghi S\u01a1n",
+        "maquanhuyen": "407"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Th\u1ecd",
+        "matinhthanh": "25",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Thu\u1ef7",
+        "maquanhuyen": "239"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Thanh Oai",
+        "maquanhuyen": "278"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ti\u1ec1n Giang",
+        "matinhthanh": "82",
+        "tenquanhuyen": "Huy\u1ec7n G\u00f2 C\u00f4ng T\u00e2y",
+        "maquanhuyen": "823"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n V\u1ee5 B\u1ea3n",
+        "maquanhuyen": "359"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 H\u01b0\u01a1ng Tr\u00e0",
+        "maquanhuyen": "480"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh S\u00f3c Tr\u0103ng",
+        "matinhthanh": "94",
+        "tenquanhuyen": "Huy\u1ec7n K\u1ebf S\u00e1ch",
+        "maquanhuyen": "943"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn B\u00ecnh Th\u1ea1nh",
+        "maquanhuyen": "765"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Quy Nh\u01a1n",
+        "maquanhuyen": "540"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Tr\u1ecb",
+        "matinhthanh": "45",
+        "tenquanhuyen": "Huy\u1ec7n Tri\u1ec7u Phong",
+        "maquanhuyen": "469"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam",
+        "maquanhuyen": "021"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "matinhthanh": "46",
+        "tenquanhuyen": "Huy\u1ec7n Qu\u1ea3ng \u0110i\u1ec1n",
+        "maquanhuyen": "477"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Tuy\u00ean Quang",
+        "matinhthanh": "08",
+        "tenquanhuyen": "Huy\u1ec7n L\u00e2m B\u00ecnh",
+        "maquanhuyen": "071"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n Ki\u00ean L\u01b0\u01a1ng",
+        "maquanhuyen": "902"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e0o Cai",
+        "matinhthanh": "10",
+        "tenquanhuyen": "Huy\u1ec7n V\u0103n B\u00e0n",
+        "maquanhuyen": "089"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Nam \u0110\u1ecbnh",
+        "matinhthanh": "36",
+        "tenquanhuyen": "Huy\u1ec7n Xu\u00e2n Tr\u01b0\u1eddng",
+        "maquanhuyen": "364"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1eafk L\u1eafk",
+        "matinhthanh": "66",
+        "tenquanhuyen": "Huy\u1ec7n Ea Kar",
+        "maquanhuyen": "651"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n M\u1ef9 \u0110\u1ee9c",
+        "maquanhuyen": "282"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng",
+        "matinhthanh": "68",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ea1c D\u01b0\u01a1ng",
+        "maquanhuyen": "675"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n Chi L\u0103ng",
+        "maquanhuyen": "187"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Tuy H\u00f2a",
+        "maquanhuyen": "555"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Nai",
+        "matinhthanh": "75",
+        "tenquanhuyen": "Huy\u1ec7n Long Th\u00e0nh",
+        "maquanhuyen": "740"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh L\u1ea1ng S\u01a1n",
+        "matinhthanh": "20",
+        "tenquanhuyen": "Huy\u1ec7n H\u1eefu L\u0169ng",
+        "maquanhuyen": "186"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh V\u0129nh Ph\u00fac",
+        "matinhthanh": "26",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ph\u00fac Y\u00ean",
+        "maquanhuyen": "244"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng B\u00ecnh",
+        "matinhthanh": "44",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ec7 Th\u1ee7y",
+        "maquanhuyen": "457"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Th\u00e1i B\u00ecnh",
+        "matinhthanh": "34",
+        "tenquanhuyen": "Huy\u1ec7n Ki\u1ebfn X\u01b0\u01a1ng",
+        "maquanhuyen": "343"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00ecnh \u0110\u1ecbnh",
+        "matinhthanh": "52",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2y S\u01a1n",
+        "maquanhuyen": "547"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ki\u00ean Giang",
+        "matinhthanh": "91",
+        "tenquanhuyen": "Huy\u1ec7n An Minh",
+        "maquanhuyen": "909"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u1ed3 Ch\u00ed Minh",
+        "matinhthanh": "79",
+        "tenquanhuyen": "Qu\u1eadn 5",
+        "maquanhuyen": "774"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc Giang",
+        "matinhthanh": "24",
+        "tenquanhuyen": "Huy\u1ec7n L\u1ee5c Ng\u1ea1n",
+        "maquanhuyen": "219"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ng\u00e3i",
+        "matinhthanh": "51",
+        "tenquanhuyen": "Huy\u1ec7n Minh Long",
+        "maquanhuyen": "531"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n Ng\u00e2n S\u01a1n",
+        "maquanhuyen": "062"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Kon Tum",
+        "matinhthanh": "62",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Kon Tum",
+        "maquanhuyen": "608"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh H\u00e0 Giang",
+        "matinhthanh": "02",
+        "tenquanhuyen": "Huy\u1ec7n Quang B\u00ecnh",
+        "maquanhuyen": "035"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ph\u00fa Y\u00ean",
+        "matinhthanh": "54",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 \u0110\u00f4ng H\u00f2a",
+        "maquanhuyen": "564"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Ninh",
+        "matinhthanh": "22",
+        "tenquanhuyen": "Huy\u1ec7n Ba Ch\u1ebd",
+        "maquanhuyen": "202"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Ngh\u1ec7 An",
+        "matinhthanh": "40",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Th\u00e1i H\u00f2a",
+        "maquanhuyen": "414"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Qu\u1ea3ng Nam",
+        "matinhthanh": "49",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 H\u1ed9i An",
+        "maquanhuyen": "503"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Cao B\u1eb1ng",
+        "matinhthanh": "04",
+        "tenquanhuyen": "Huy\u1ec7n B\u1ea3o L\u1ea1c",
+        "maquanhuyen": "043"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh Gia Lai",
+        "matinhthanh": "64",
+        "tenquanhuyen": "Huy\u1ec7n Ch\u01b0 Pr\u00f4ng",
+        "maquanhuyen": "632"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Huy\u1ec7n Long \u0110i\u1ec1n",
+        "maquanhuyen": "752"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Th\u00e0nh ph\u1ed1 Cao L\u00e3nh",
+        "maquanhuyen": "866"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 N\u1eb5ng",
+        "matinhthanh": "48",
+        "tenquanhuyen": "Qu\u1eadn S\u01a1n Tr\u00e0",
+        "maquanhuyen": "493"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p",
+        "matinhthanh": "87",
+        "tenquanhuyen": "Huy\u1ec7n T\u00e2n H\u1ed3ng",
+        "maquanhuyen": "869"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "matinhthanh": "77",
+        "tenquanhuyen": "Th\u1ecb x\u00e3 Ph\u00fa M\u1ef9",
+        "maquanhuyen": "754"
+    },
+    {
+        "tentinhthanh": "T\u1ec9nh B\u1eafc K\u1ea1n",
+        "matinhthanh": "06",
+        "tenquanhuyen": "Huy\u1ec7n P\u00e1c N\u1eb7m",
+        "maquanhuyen": "060"
+    },
+    {
+        "tentinhthanh": "Th\u00e0nh ph\u1ed1 H\u00e0 N\u1ed9i",
+        "matinhthanh": "01",
+        "tenquanhuyen": "Huy\u1ec7n Ho\u00e0i \u0110\u1ee9c",
+        "maquanhuyen": "274"
+    }
+]
